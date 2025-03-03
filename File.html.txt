@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#research">Research Interests</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#awards">Awards</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#interests">Personal Interests</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="hero">
+        <h1>Aditya</h1>
+        <p>Exploring technology and healthcare</p>
+    </section>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <img src="profile.jpg" alt="Aditya" style="width: 200px; border-radius: 50%;">
+            <p>Aditya is a computer science enthusiast from Nepal with a passion for technology, nature, and community service. His journey in tech began with his first Dell laptop, sparking a lifelong fascination with computers. He is also an avid reader of Chinese novels and enjoys writing poetry with deep emotional themes. Aditya's commitment to environmental preservation is evident through his participation in climate initiatives like Students for Liberty (SFL) and afforestation programs.</p>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <p>Aditya transferred from a rural school after grade 10 to pursue better education and exposure. He holds a bachelor's degree in computer science, where he excelled in courses like data structures, algorithms, and machine learning.</p>
+        </section>
+        <section id="experience">
+            <h2>Experience</h2>
+            <p>Aditya has valuable teaching experience, having taught computer science to grade 9 students at Kashi Vidya Niketan in Bihar, India. This opportunity, facilitated by his grandfather, a retired professor, allowed him to develop strong communication and leadership skills. He also mentored his sibling, further fueling his passion for teaching and mentoring.</p>
+        </section>
+        <section id="research">
+            <h2>Research Interests</h2>
+            <p>Aditya is pursuing a PhD in Computer Science with a focus on applying machine learning to healthcare, pharmaceuticals, and cybersecurity. He is particularly interested in AI-driven solutions for drug research, improving healthcare accessibility, and enhancing data security. His research goals align with Springfield College's program, especially with Dr. Md Razuan Hossain's expertise in machine learning and hardware security.</p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming languages: Python, Java, C++</li>
+                <li>Data analysis</li>
+                <li>Machine learning</li>
+                <li>Software development</li>
+                <li>Communication</li>
+                <li>Problem-solving</li>
+            </ul>
+        </section>
+        <section id="awards">
+            <h2>Awards and Achievements</h2>
+            <ul>
+                <li>3rd place in basketball competition</li>
+                <li>Academic awards in computer science</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: aditya@example.com</p>
+            <p>LinkedIn: linkedin.com/in/aditya</p>
+            <p>Phone: (123) 456-7890</p>
+        </section>
+        <section id="interests">
+            <h2>Personal Interests</h2>
+            <p>Outside of technology, Aditya enjoys nature exploration and traveling, with a focus on environmental preservation. He is actively involved in climate initiatives and afforestation programs. He also finds joy in reading Chinese novels and writing poetry, which allows him to express complex ideas and emotions creatively.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Aditya. All rights reserved.</p>
+    </footer>
+    <button id="back-to-top">Back to Top</button>
+    <script src="script.js"></script>
+</body>
+</html>
